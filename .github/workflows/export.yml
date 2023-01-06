@@ -30,13 +30,14 @@ jobs:
         mv openfeedback.json $BRANCH
         cd $BRANCH
 
-        git config --global user.name "ci-rebot"
-        git config --global user.email "cirebot.github@gmail.com"
+        git config --global user.name "sinedied"
+        git config --global user.password "$GITHUB_TOKEN"
+        git config --global user.email "noda@free.com"
         git init
         git checkout --orphan $BRANCH
         git add openfeedback.json
         git commit -m "Update data"
-        git remote add origin ${{ github.repositoryUrl }}
-        git push origin $BRANCH
+        git remote add origin ${{ github.server_url }}/${{ github.repository }}.git
+        git push origin $BRANCH --force
       env:
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}

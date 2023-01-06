@@ -1,0 +1,38 @@
+name: release
+on:
+  workflow_dispatch:
+
+env:
+  SCHED_URL: https://snowcamp2023.sched.com/
+  BRANCH: data-2023
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    steps:
+    - uses: actions/checkout@v3
+    - name: Use Node.js v18
+      uses: actions/setup-node@v3
+      with:
+        node-version: 18
+    - name: Install dependencies and build
+      run: |
+        npm ci
+        npm run build
+    - name: Export OpenFeedback data
+      run: npm start
+      env:
+        SCHED_KEY_RO: ${{ secrets.SCHED_KEY_RO }}
+    - name: Publish data to branch
+      run: |
+        mkdir -p $BRANCH
+        mv openfeedback.json $BRANCH
+        cd $BRANCH
+
+        git init
+        git checkout --orphan $BRANCH
+        git add openfeedback.json
+        git commit -m "Update data"
+        git remote add origin ${{ github.repositoryUrl }}
+        git push origin $BRANCH

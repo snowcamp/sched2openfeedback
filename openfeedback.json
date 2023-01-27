@@ -1,0 +1,1097 @@
+{
+  "sessions": {
+    "869f7c938bf1dd95f95a0dc5b2d585f3": {
+      "id": "869f7c938bf1dd95f95a0dc5b2d585f3",
+      "tags": [
+        "Cloud & DevOps",
+        "Workshop"
+      ],
+      "title": "Coder votre infrastructure avec votre langage préféré !",
+      "startTime": "2023-01-25T09:30+02:00",
+      "endTime": "2023-01-25T12:30+02:00",
+      "trackTitle": "Mont Blanc 1",
+      "speakers": [
+        "10112013",
+        "16863803"
+      ]
+    },
+    "9617f3b5b9fe8b2eeaf11f71a3f78547": {
+      "id": "9617f3b5b9fe8b2eeaf11f71a3f78547",
+      "tags": [
+        "Cloud & DevOps",
+        "Workshop"
+      ],
+      "title": "Du log verbeux à l'observabilité",
+      "startTime": "2023-01-25T09:30+02:00",
+      "endTime": "2023-01-25T12:30+02:00",
+      "trackTitle": "Mont Blanc 2",
+      "speakers": [
+        "16863869",
+        "16863806"
+      ]
+    },
+    "9b59de9e3f7c8733603c891057fc0132": {
+      "id": "9b59de9e3f7c8733603c891057fc0132",
+      "tags": [
+        "Cloud & DevOps",
+        "Workshop"
+      ],
+      "title": "Enter Serverless Functions Journey with Quarkus",
+      "startTime": "2023-01-25T09:30+02:00",
+      "endTime": "2023-01-25T12:30+02:00",
+      "trackTitle": "Mont Blanc 4",
+      "speakers": [
+        "3242349"
+      ]
+    },
+    "fd4588676a46ae5b749d12e947d023c0": {
+      "id": "fd4588676a46ae5b749d12e947d023c0",
+      "tags": [
+        "Cloud & DevOps",
+        "Workshop"
+      ],
+      "title": "Gitlab de A à Z ! Car il n'y a pas que le C et le I ...",
+      "startTime": "2023-01-25T09:30+02:00",
+      "endTime": "2023-01-25T12:30+02:00",
+      "trackTitle": "Mont Blanc 3",
+      "speakers": [
+        "13982211",
+        "10938911"
+      ]
+    },
+    "be02ba4ce640ad9daa97c89e9c097d85": {
+      "id": "be02ba4ce640ad9daa97c89e9c097d85",
+      "tags": [
+        "Frontend",
+        "Workshop"
+      ],
+      "title": "Mission: Playwright 🎭, le Cypress killer by Microsoft",
+      "startTime": "2023-01-25T09:30+02:00",
+      "endTime": "2023-01-25T12:30+02:00",
+      "trackTitle": "Everest",
+      "speakers": [
+        "6857374"
+      ]
+    },
+    "2c3e67e1e3adaf48e770da4f74033234": {
+      "id": "2c3e67e1e3adaf48e770da4f74033234",
+      "tags": [
+        "Backend",
+        "Workshop"
+      ],
+      "title": "Le versionning des APIs REST par la pratique",
+      "startTime": "2023-01-25T14:00+02:00",
+      "endTime": "2023-01-25T17:00+02:00",
+      "trackTitle": "Everest",
+      "speakers": [
+        "13982157"
+      ]
+    },
+    "69511a584ea8fa8d2f171a050549d4be": {
+      "id": "69511a584ea8fa8d2f171a050549d4be",
+      "tags": [
+        "Cloud & DevOps",
+        "Workshop"
+      ],
+      "title": "Avancez avec HC Vault, au mépris du danger, là où aucune solution de sécurité n'a osé aller jusqu'alors !",
+      "startTime": "2023-01-25T14:00+02:00",
+      "endTime": "2023-01-25T17:00+02:00",
+      "trackTitle": "Mont Blanc 2",
+      "speakers": [
+        "9198443",
+        "10407266"
+      ]
+    },
+    "ecea3d105e7c58f4e5b076557303c711": {
+      "id": "ecea3d105e7c58f4e5b076557303c711",
+      "tags": [
+        "Cloud & DevOps",
+        "Workshop"
+      ],
+      "title": "Les microservices en pratique avec Node.js, Docker et Azure",
+      "startTime": "2023-01-25T14:00+02:00",
+      "endTime": "2023-01-25T17:00+02:00",
+      "trackTitle": "Mont Blanc 3",
+      "speakers": [
+        "6779610",
+        "16863815"
+      ]
+    },
+    "f8ce8c949955d59798185899d9ed2019": {
+      "id": "f8ce8c949955d59798185899d9ed2019",
+      "tags": [
+        "Cloud & DevOps",
+        "Workshop"
+      ],
+      "title": "Toi aussi apprends à développer un opérateur Kubernetes en Java avec Quarkus et Gitpod.",
+      "startTime": "2023-01-25T14:00+02:00",
+      "endTime": "2023-01-25T17:00+02:00",
+      "trackTitle": "Mont Blanc 4",
+      "speakers": [
+        "11170681",
+        "16863932"
+      ]
+    },
+    "d660bbde6ea382b9b64eeb4f68851b29": {
+      "id": "d660bbde6ea382b9b64eeb4f68851b29",
+      "tags": [
+        "Language, Architecture & Paradigms",
+        "Workshop"
+      ],
+      "title": "Introduction à l'architecture as code",
+      "startTime": "2023-01-25T14:00+02:00",
+      "endTime": "2023-01-25T17:00+02:00",
+      "trackTitle": "Mont Blanc 1",
+      "speakers": [
+        "13982217"
+      ]
+    },
+    "94a2a77b9f79fe6d398a55d98f662582": {
+      "id": "94a2a77b9f79fe6d398a55d98f662582",
+      "tags": [
+        "Off-road",
+        "Keynote"
+      ],
+      "title": "Le numérique c’est pour tout le monde… ou pas !",
+      "startTime": "2023-01-26T09:20+02:00",
+      "endTime": "2023-01-26T10:05+02:00",
+      "trackTitle": "Auditorium",
+      "speakers": [
+        "16863818",
+        "16863833"
+      ]
+    },
+    "a021ff5f6f1b9e6902e271b198bb41a6": {
+      "id": "a021ff5f6f1b9e6902e271b198bb41a6",
+      "tags": [
+        "Backend",
+        "Talk"
+      ],
+      "title": "Indexer ses documents bureautique avec la suite Elastic et FSCrawler",
+      "startTime": "2023-01-26T10:45+02:00",
+      "endTime": "2023-01-26T11:30+02:00",
+      "trackTitle": "Makalu",
+      "speakers": [
+        "459369"
+      ]
+    },
+    "df5e0101599ed27adb0b4bb775798822": {
+      "id": "df5e0101599ed27adb0b4bb775798822",
+      "tags": [
+        "Cloud & DevOps",
+        "Talk"
+      ],
+      "title": "Façonner les architectures du future avec Dapr",
+      "startTime": "2023-01-26T10:45+02:00",
+      "endTime": "2023-01-26T11:30+02:00",
+      "trackTitle": "Auditorium",
+      "speakers": [
+        "16863812"
+      ]
+    },
+    "fdb092fb6ce1c735d797c0e938a638a5": {
+      "id": "fdb092fb6ce1c735d797c0e938a638a5",
+      "tags": [
+        "Frontend",
+        "Talk"
+      ],
+      "title": "Développeurs Angular : La dernière conférence RxJS dont vous aurez besoin...",
+      "startTime": "2023-01-26T10:45+02:00",
+      "endTime": "2023-01-26T11:30+02:00",
+      "trackTitle": "Kilimanjaro",
+      "speakers": [
+        "16863821"
+      ]
+    },
+    "5d466bd7d4fb0b0ceda8e1d31f25688c": {
+      "id": "5d466bd7d4fb0b0ceda8e1d31f25688c",
+      "tags": [
+        "Language, Architecture & Paradigms",
+        "Talk"
+      ],
+      "title": "From Zero to Hero in Kubernetes Native Java",
+      "startTime": "2023-01-26T10:45+02:00",
+      "endTime": "2023-01-26T11:30+02:00",
+      "trackTitle": "Mont Blanc",
+      "speakers": [
+        "3242349"
+      ]
+    },
+    "8ca6239ae62fd8afb0bdd9572cab79d0": {
+      "id": "8ca6239ae62fd8afb0bdd9572cab79d0",
+      "tags": [
+        "Backend",
+        "Talk"
+      ],
+      "title": "Appwrite est-il prêt à éteindre Firebase ? 🔥",
+      "startTime": "2023-01-26T11:45+02:00",
+      "endTime": "2023-01-26T12:30+02:00",
+      "trackTitle": "Kilimanjaro",
+      "speakers": [
+        "16863797",
+        "16863845"
+      ]
+    },
+    "373d27ea8763a7e90a5e86b48b4219f8": {
+      "id": "373d27ea8763a7e90a5e86b48b4219f8",
+      "tags": [
+        "Frontend",
+        "Talk"
+      ],
+      "title": "Une librairie de tests JS pour les gouverner toutes 💍🔥🌋",
+      "startTime": "2023-01-26T11:45+02:00",
+      "endTime": "2023-01-26T12:30+02:00",
+      "trackTitle": "Mont Blanc",
+      "speakers": [
+        "6779664",
+        "16864523"
+      ]
+    },
+    "7a1a12f2f114317ec8f7d06ddff65d40": {
+      "id": "7a1a12f2f114317ec8f7d06ddff65d40",
+      "tags": [
+        "Language,Architecture & Paradigms",
+        "Talk"
+      ],
+      "title": "Bien se lancer dans le Domain Driven Design sans se tromper de combat",
+      "startTime": "2023-01-26T11:45+02:00",
+      "endTime": "2023-01-26T12:30+02:00",
+      "trackTitle": "Auditorium",
+      "speakers": [
+        "16863839"
+      ]
+    },
+    "6cd6cf6de66b403ddea0f33e5bbf7cdf": {
+      "id": "6cd6cf6de66b403ddea0f33e5bbf7cdf",
+      "tags": [
+        "Off-road",
+        "Talk"
+      ],
+      "title": "Quelques pistes pour soigner ses traces d'exécution",
+      "startTime": "2023-01-26T11:45+02:00",
+      "endTime": "2023-01-26T12:30+02:00",
+      "trackTitle": "Makalu",
+      "speakers": [
+        "13987020"
+      ]
+    },
+    "46f1b2181884b96590cac5b4558e0535": {
+      "id": "46f1b2181884b96590cac5b4558e0535",
+      "tags": [
+        "Cloud & DevOps",
+        "Talk"
+      ],
+      "title": "MLOps from scratch",
+      "startTime": "2023-01-26T14:00+02:00",
+      "endTime": "2023-01-26T14:45+02:00",
+      "trackTitle": "Makalu",
+      "speakers": [
+        "16864517"
+      ]
+    },
+    "5c8a920139adb5ef1d1644ac9f60b53d": {
+      "id": "5c8a920139adb5ef1d1644ac9f60b53d",
+      "tags": [
+        "Frontend",
+        "Talk"
+      ],
+      "title": "À la découverte de TanStack Query, le tueur de Redux",
+      "startTime": "2023-01-26T14:00+02:00",
+      "endTime": "2023-01-26T14:45+02:00",
+      "trackTitle": "Kilimanjaro",
+      "speakers": [
+        "6779664"
+      ]
+    },
+    "035da82500488c804d0e3d4fce239f16": {
+      "id": "035da82500488c804d0e3d4fce239f16",
+      "tags": [
+        "Language, Architecture & Paradigms",
+        "Talk"
+      ],
+      "title": "Typesafe all the things: typage fort de la base de données jusqu'au client gràce à tRPC & prisma",
+      "startTime": "2023-01-26T14:00+02:00",
+      "endTime": "2023-01-26T14:45+02:00",
+      "trackTitle": "Mont Blanc",
+      "speakers": [
+        "16863809"
+      ]
+    },
+    "65d5732ed2b580bee4f39f06277e4bc1": {
+      "id": "65d5732ed2b580bee4f39f06277e4bc1",
+      "tags": [
+        "Language,Architecture & Paradigms",
+        "Talk"
+      ],
+      "title": "D'un orchestre figé à un joli ballet aka comment on a propulsé notre monolith dans un pas de danse endiablé 😈",
+      "startTime": "2023-01-26T14:00+02:00",
+      "endTime": "2023-01-26T14:45+02:00",
+      "trackTitle": "Makalu",
+      "speakers": [
+        "16863857",
+        "17215023"
+      ]
+    },
+    "bb741c7097fa6d539a8646a8ea654a10": {
+      "id": "bb741c7097fa6d539a8646a8ea654a10",
+      "tags": [
+        "Off-road",
+        "Talk"
+      ],
+      "title": "Il était une fois… la cartographie 🗺️ Comment et pourquoi ajouter une carte à vos applications ?",
+      "startTime": "2023-01-26T14:00+02:00",
+      "endTime": "2023-01-26T14:45+02:00",
+      "trackTitle": "Auditorium",
+      "speakers": [
+        "16863851",
+        "16863866"
+      ]
+    },
+    "a9f80d666e693ed1437cd296e39d0a15": {
+      "id": "a9f80d666e693ed1437cd296e39d0a15",
+      "tags": [
+        "Backend",
+        "Talk"
+      ],
+      "title": "Alan Poe appliqué au data streaming : \"Toutes choses sont bonnes ou mauvaises par comparaison\"",
+      "startTime": "2023-01-26T15:00+02:00",
+      "endTime": "2023-01-26T15:45+02:00",
+      "trackTitle": "Mont Blanc",
+      "speakers": [
+        "4899920",
+        "17215302"
+      ]
+    },
+    "bd16f34aaeb8ef1f418c08f9b4c95e51": {
+      "id": "bd16f34aaeb8ef1f418c08f9b4c95e51",
+      "tags": [
+        "Cloud & DevOps",
+        "Talk"
+      ],
+      "title": "Plongeons dans la création d'un provider Terraform",
+      "startTime": "2023-01-26T15:00+02:00",
+      "endTime": "2023-01-26T15:45+02:00",
+      "trackTitle": "Makalu",
+      "speakers": [
+        "13982169",
+        "16863932"
+      ]
+    },
+    "bad586fe21491bd3d9240a5bd125d6e0": {
+      "id": "bad586fe21491bd3d9240a5bd125d6e0",
+      "tags": [
+        "Language, Architecture & Paradigms",
+        "Talk"
+      ],
+      "title": "Drogué à l'hexagone, Node JS ne m'a pas vraiment aidé à rester clean ... Mais NestJS pourrait-il me sauver ?",
+      "startTime": "2023-01-26T15:00+02:00",
+      "endTime": "2023-01-26T15:45+02:00",
+      "trackTitle": "Auditorium",
+      "speakers": [
+        "16863863"
+      ]
+    },
+    "1339f5862f5511ad1393e864fd8c3f74": {
+      "id": "1339f5862f5511ad1393e864fd8c3f74",
+      "tags": [
+        "Off-road",
+        "Talk"
+      ],
+      "title": "Edge AI : allez viens, on embarque notre intelligence artificielle !",
+      "startTime": "2023-01-26T15:00+02:00",
+      "endTime": "2023-01-26T15:45+02:00",
+      "trackTitle": "Kilimanjaro",
+      "speakers": [
+        "16863827"
+      ]
+    },
+    "17afec5016a5bf67679c51ed647b52da": {
+      "id": "17afec5016a5bf67679c51ed647b52da",
+      "tags": [
+        "Cloud & DevOps",
+        "Talk"
+      ],
+      "title": "Keep Calm & Do GitOps ! REX: Déployer sans accéder aux clusters",
+      "startTime": "2023-01-26T16:00+02:00",
+      "endTime": "2023-01-26T16:45+02:00",
+      "trackTitle": "Kilimanjaro",
+      "speakers": [
+        "16863794"
+      ]
+    },
+    "42c802be7027146409200bd309b93f87": {
+      "id": "42c802be7027146409200bd309b93f87",
+      "tags": [
+        "Frontend",
+        "Talk"
+      ],
+      "title": "Playwright : l'outil qui va révolutionner les tests end-to-end",
+      "startTime": "2023-01-26T16:00+02:00",
+      "endTime": "2023-01-26T16:45+02:00",
+      "trackTitle": "Makalu",
+      "speakers": [
+        "16863836"
+      ]
+    },
+    "439fd350ef1dbc4cfa319149e8fc31ec": {
+      "id": "439fd350ef1dbc4cfa319149e8fc31ec",
+      "tags": [
+        "Language, Architecture & Paradigms",
+        "Talk"
+      ],
+      "title": "Elixir: une potion pour construire des microservices dans un monolithe",
+      "startTime": "2023-01-26T16:00+02:00",
+      "endTime": "2023-01-26T16:45+02:00",
+      "trackTitle": "Mont Blanc",
+      "speakers": [
+        "16863860"
+      ]
+    },
+    "7fcbde7a6f32e7436f14511e80665047": {
+      "id": "7fcbde7a6f32e7436f14511e80665047",
+      "tags": [
+        "Off-road",
+        "Talk"
+      ],
+      "title": "Revue de code : on n’est pas venu pour souffrir !",
+      "startTime": "2023-01-26T16:00+02:00",
+      "endTime": "2023-01-26T16:45+02:00",
+      "trackTitle": "Auditorium",
+      "speakers": [
+        "17054475",
+        "16863800"
+      ]
+    },
+    "4670657eaa4e52fe7f936199adb7164b": {
+      "id": "4670657eaa4e52fe7f936199adb7164b",
+      "tags": [
+        "Off-road",
+        "Keynote"
+      ],
+      "title": "Ressuscitons les ordinosaures !",
+      "startTime": "2023-01-27T09:20+02:00",
+      "endTime": "2023-01-27T10:05+02:00",
+      "trackTitle": "Auditorium",
+      "speakers": [
+        "16863875"
+      ]
+    },
+    "a1c0f2ae0d8b8d97c73a204bda09ac81": {
+      "id": "a1c0f2ae0d8b8d97c73a204bda09ac81",
+      "tags": [
+        "Backend",
+        "Talk"
+      ],
+      "title": "Principes de conception [d'URL] d'API REST",
+      "startTime": "2023-01-27T10:45+02:00",
+      "endTime": "2023-01-27T11:30+02:00",
+      "trackTitle": "Makalu",
+      "speakers": [
+        "3734670"
+      ]
+    },
+    "13c3054e8aa6c62295c3ffd8dfb1d47e": {
+      "id": "13c3054e8aa6c62295c3ffd8dfb1d47e",
+      "tags": [
+        "Cloud & DevOps",
+        "Talk"
+      ],
+      "title": "Platform Engineering - Lorsque Kubernetes devient la clé du royaume",
+      "startTime": "2023-01-27T10:45+02:00",
+      "endTime": "2023-01-27T11:30+02:00",
+      "trackTitle": "Auditorium",
+      "speakers": [
+        "16863872",
+        "16863842"
+      ]
+    },
+    "043e6d404405bf387b61df9f26e35465": {
+      "id": "043e6d404405bf387b61df9f26e35465",
+      "tags": [
+        "Frontend",
+        "Talk"
+      ],
+      "title": "Comment automatiser ses tests d'accessibilité ?",
+      "startTime": "2023-01-27T10:45+02:00",
+      "endTime": "2023-01-27T11:30+02:00",
+      "trackTitle": "Kilimanjaro",
+      "speakers": [
+        "13982160"
+      ]
+    },
+    "240000567120c604b6843e37c978c876": {
+      "id": "240000567120c604b6843e37c978c876",
+      "tags": [
+        "Language, Architecture & Paradigms",
+        "Talk"
+      ],
+      "title": "D’un modèle d'IA dans un notebook à un service temps réel: architecturons!",
+      "startTime": "2023-01-27T10:45+02:00",
+      "endTime": "2023-01-27T11:30+02:00",
+      "trackTitle": "Mont Blanc",
+      "speakers": [
+        "16863854"
+      ]
+    },
+    "e23f524a6ebd6d752f90f0bd4184cf6c": {
+      "id": "e23f524a6ebd6d752f90f0bd4184cf6c",
+      "tags": [
+        "Backend",
+        "Talk"
+      ],
+      "title": "Analytique temp réel pour vos utilisateurs avec Apache Pinot",
+      "startTime": "2023-01-27T11:45+02:00",
+      "endTime": "2023-01-27T12:30+02:00",
+      "trackTitle": "Kilimanjaro",
+      "speakers": [
+        "6779619"
+      ]
+    },
+    "91d0ce93f44a1fb9bd00c01eebe52193": {
+      "id": "91d0ce93f44a1fb9bd00c01eebe52193",
+      "tags": [
+        "Frontend",
+        "Talk"
+      ],
+      "title": "Développer des applications de bureau, sans code natif",
+      "startTime": "2023-01-27T11:45+02:00",
+      "endTime": "2023-01-27T12:30+02:00",
+      "trackTitle": "Makalu",
+      "speakers": [
+        "16863878"
+      ]
+    },
+    "705ae5dde36b25faaed0a2cff3463aa0": {
+      "id": "705ae5dde36b25faaed0a2cff3463aa0",
+      "tags": [
+        "Language,Architecture & Paradigms",
+        "Talk"
+      ],
+      "title": "Une plateforme à concevoir, deux architectes: trois possibilités ?",
+      "startTime": "2023-01-27T11:45+02:00",
+      "endTime": "2023-01-27T12:30+02:00",
+      "trackTitle": "Auditorium",
+      "speakers": [
+        "5524229",
+        "13982157"
+      ]
+    },
+    "3346b054bfffe28f56f6dc12155ca689": {
+      "id": "3346b054bfffe28f56f6dc12155ca689",
+      "tags": [
+        "Off-road",
+        "Talk"
+      ],
+      "title": "L’intelligence artificielle au secours de l’accessibilité",
+      "startTime": "2023-01-27T11:45+02:00",
+      "endTime": "2023-01-27T12:30+02:00",
+      "trackTitle": "Mont Blanc",
+      "speakers": [
+        "13982169",
+        "16863830"
+      ]
+    },
+    "c8ff9caaededf13b657459b758e7a7b5": {
+      "id": "c8ff9caaededf13b657459b758e7a7b5",
+      "tags": [
+        "Cloud & DevOps",
+        "Talk"
+      ],
+      "title": "Mutation Testing: Did my test break my code ? 🤔",
+      "startTime": "2023-01-27T14:00+02:00",
+      "endTime": "2023-01-27T14:45+02:00",
+      "trackTitle": "Makalu",
+      "speakers": [
+        "10112013",
+        "16863848"
+      ]
+    },
+    "1b223cd16bbe9b15a9ef7e274262d323": {
+      "id": "1b223cd16bbe9b15a9ef7e274262d323",
+      "tags": [
+        "Frontend",
+        "Talk"
+      ],
+      "title": "Remotion : le 7ème art à portée de composants web et d'API 🎬",
+      "startTime": "2023-01-27T14:00+02:00",
+      "endTime": "2023-01-27T14:45+02:00",
+      "trackTitle": "Kilimanjaro",
+      "speakers": [
+        "13982166",
+        "16863797"
+      ]
+    },
+    "83a586dcb4d04c40164c73813eb8ffa6": {
+      "id": "83a586dcb4d04c40164c73813eb8ffa6",
+      "tags": [
+        "Language,Architecture & Paradigms",
+        "Talk"
+      ],
+      "title": "Rust : forces et faiblesses après 2 ans en production pour un SaaS web",
+      "startTime": "2023-01-27T14:00+02:00",
+      "endTime": "2023-01-27T14:45+02:00",
+      "trackTitle": "Auditorium",
+      "speakers": [
+        "3461781",
+        "16863824"
+      ]
+    },
+    "d5249c7ef11497c4bed45e5030a0d741": {
+      "id": "d5249c7ef11497c4bed45e5030a0d741",
+      "tags": [
+        "Off-road",
+        "Talk"
+      ],
+      "title": "La fin des Artistes ? La génération d'image assistée par IA expliquée",
+      "startTime": "2023-01-27T14:00+02:00",
+      "endTime": "2023-01-27T14:45+02:00",
+      "trackTitle": "Mont Blanc",
+      "speakers": [
+        "14265384"
+      ]
+    },
+    "f6348899a435337752f3feee30aca463": {
+      "id": "f6348899a435337752f3feee30aca463",
+      "tags": [
+        "Architecture & Paradigms",
+        "Talk"
+      ],
+      "title": "Railway Programming: la voie vers un code plus honnête",
+      "startTime": "2023-01-27T15:00+02:00",
+      "endTime": "2023-01-27T15:45+02:00",
+      "trackTitle": "Kilimanjaro",
+      "speakers": [
+        "9198407",
+        "13982232"
+      ]
+    },
+    "a25fd4d8e3b493bd43112cb68e1c0f13": {
+      "id": "a25fd4d8e3b493bd43112cb68e1c0f13",
+      "tags": [
+        "Backend",
+        "Talk"
+      ],
+      "title": "SQL réactif : pourquoi c'est important ?",
+      "startTime": "2023-01-27T15:00+02:00",
+      "endTime": "2023-01-27T15:45+02:00",
+      "trackTitle": "Mont Blanc",
+      "speakers": [
+        "2404359"
+      ]
+    },
+    "e974fd283a8bfca5185dc5a455c04bf1": {
+      "id": "e974fd283a8bfca5185dc5a455c04bf1",
+      "tags": [
+        "Language,Architecture & Paradigms",
+        "Talk"
+      ],
+      "title": "Ctrl + C, Ctrl +V !",
+      "startTime": "2023-01-27T15:00+02:00",
+      "endTime": "2023-01-27T15:45+02:00",
+      "trackTitle": "Auditorium",
+      "speakers": [
+        "7022098",
+        "13982223"
+      ]
+    },
+    "242d896b617ead77a019fce2c436ea67": {
+      "id": "242d896b617ead77a019fce2c436ea67",
+      "tags": [
+        "Language,Architecture & Paradigms",
+        "Talk"
+      ],
+      "title": "Si on aidait le capitaine Némo à classifier les monstres marins ?",
+      "startTime": "2023-01-27T15:00+02:00",
+      "endTime": "2023-01-27T15:45+02:00",
+      "trackTitle": "Makalu",
+      "speakers": [
+        "11170681",
+        "16863827"
+      ]
+    },
+    "ad9af92e0ef191a70970105c46e41537": {
+      "id": "ad9af92e0ef191a70970105c46e41537",
+      "tags": [
+        "Cloud & DevOps",
+        "Talk"
+      ],
+      "title": "Rendre visible l’invisible: comment mesurer l’impact carbone d’applications cloud?",
+      "startTime": "2023-01-27T16:00+02:00",
+      "endTime": "2023-01-27T16:45+02:00",
+      "trackTitle": "Mont Blanc",
+      "speakers": [
+        "14203916"
+      ]
+    },
+    "f1b06da8bafb1efaa1f331e641db4ec9": {
+      "id": "f1b06da8bafb1efaa1f331e641db4ec9",
+      "tags": [
+        "Frontend",
+        "Talk"
+      ],
+      "title": "Pourquoi le CSS Ca Saoule Souvent",
+      "startTime": "2023-01-27T16:00+02:00",
+      "endTime": "2023-01-27T16:45+02:00",
+      "trackTitle": "Makalu",
+      "speakers": [
+        "16863791"
+      ]
+    },
+    "406d80c8af0a41c02b239b231686345b": {
+      "id": "406d80c8af0a41c02b239b231686345b",
+      "tags": [
+        "Frontend",
+        "Talk"
+      ],
+      "title": "Une application frontend pour les gouverner toutes",
+      "startTime": "2023-01-27T16:00+02:00",
+      "endTime": "2023-01-27T16:45+02:00",
+      "trackTitle": "Kilimanjaro",
+      "speakers": [
+        "10757849"
+      ]
+    },
+    "a376ac568ff8be3cfcf8237752abb9f3": {
+      "id": "a376ac568ff8be3cfcf8237752abb9f3",
+      "tags": [
+        "Off-road",
+        "Talk"
+      ],
+      "title": "Cryptographie post-quantique : pourquoi et comment va-t-on remplacer nos algos d'aujourd'hui ?",
+      "startTime": "2023-01-27T16:00+02:00",
+      "endTime": "2023-01-27T16:45+02:00",
+      "trackTitle": "Auditorium",
+      "speakers": [
+        "9198443"
+      ]
+    }
+  },
+  "speakers": {
+    "459369": {
+      "id": "459369",
+      "name": "David Pilato",
+      "photoUrl": "http://avatars.sched.co/0/63/459369/avatar.jpg.320x320px.jpg?c3d"
+    },
+    "2404359": {
+      "id": "2404359",
+      "name": "Thomas Segismont",
+      "photoUrl": "http://avatars.sched.co/a/38/2404359/avatar.jpg.320x320px.jpg?bc2"
+    },
+    "3242349": {
+      "id": "3242349",
+      "name": "Daniel Oh",
+      "photoUrl": "http://avatars.sched.co/8/57/3242349/avatar.jpg.320x320px.jpg?091"
+    },
+    "3461781": {
+      "id": "3461781",
+      "name": "Kilian Devouassoux",
+      "photoUrl": "http://avatars.sched.co/1/5f/3461781/avatar.jpg.320x320px.jpg?b58"
+    },
+    "3734670": {
+      "id": "3734670",
+      "name": "Sébastien Chassande",
+      "photoUrl": "http://avatars.sched.co/f/1d/3734670/avatar.jpg.320x320px.jpg?b9a"
+    },
+    "4899920": {
+      "id": "4899920",
+      "name": "Julien Cognet",
+      "photoUrl": "http://avatars.sched.co/9/e3/4899920/avatar.jpg.320x320px.jpg?494"
+    },
+    "5524229": {
+      "id": "5524229",
+      "name": "Raphaël Semeteys",
+      "photoUrl": "http://avatars.sched.co/5/8f/5524229/avatar.jpg.320x320px.jpg?6c3"
+    },
+    "6779610": {
+      "id": "6779610",
+      "name": "Yohan Lasorsa",
+      "photoUrl": "http://avatars.sched.co/5/f3/6779610/avatar.jpg.320x320px.jpg?3f2"
+    },
+    "6779619": {
+      "id": "6779619",
+      "name": "François Teychene",
+      "photoUrl": "http://avatars.sched.co/5/c2/6779619/avatar.jpg.320x320px.jpg?91c"
+    },
+    "6779664": {
+      "id": "6779664",
+      "name": "Jules Hablot",
+      "photoUrl": "http://avatars.sched.co/9/5e/6779664/avatar.jpg.320x320px.jpg?fe2"
+    },
+    "6857374": {
+      "id": "6857374",
+      "name": "Mathieu Mure",
+      "photoUrl": "http://avatars.sched.co/2/18/6857374/avatar.jpg.320x320px.jpg?aa3"
+    },
+    "7022098": {
+      "id": "7022098",
+      "name": "Emmanuel De Saint Steban",
+      "photoUrl": "http://avatars.sched.co/6/b7/7022098/avatar.jpg.320x320px.jpg?ea0"
+    },
+    "9198407": {
+      "id": "9198407",
+      "name": "Romain Berthon",
+      "photoUrl": "http://avatars.sched.co/d/c9/9198407/avatar.jpg.320x320px.jpg?f34"
+    },
+    "9198443": {
+      "id": "9198443",
+      "name": "Willy Malvault 🤹",
+      "photoUrl": "http://avatars.sched.co/9/c0/9198443/avatar.jpg.320x320px.jpg?a17"
+    },
+    "10112013": {
+      "id": "10112013",
+      "name": "Olivier Leplus",
+      "photoUrl": "http://avatars.sched.co/b/de/10112013/avatar.jpg.320x320px.jpg?e23"
+    },
+    "10407266": {
+      "id": "10407266",
+      "name": "Sven Szejwach",
+      "photoUrl": "http://avatars.sched.co/2/e7/10407266/avatar.jpg.320x320px.jpg?926"
+    },
+    "10757849": {
+      "id": "10757849",
+      "name": "Sylvain Dedieu",
+      "photoUrl": "http://avatars.sched.co/0/d2/10757849/avatar.jpg.320x320px.jpg?a48"
+    },
+    "10938911": {
+      "id": "10938911",
+      "name": "Philippe Charrière",
+      "photoUrl": "http://avatars.sched.co/b/60/10938911/avatar.jpg.320x320px.jpg?bcc"
+    },
+    "11170681": {
+      "id": "11170681",
+      "name": "Stéphane Philippart",
+      "photoUrl": "http://avatars.sched.co/6/aa/11170681/avatar.jpg.320x320px.jpg?3b2"
+    },
+    "13982157": {
+      "id": "13982157",
+      "name": "Alexandre Touret",
+      "photoUrl": "http://avatars.sched.co/4/75/13982157/avatar.jpg.320x320px.jpg?622"
+    },
+    "13982160": {
+      "id": "13982160",
+      "name": "Anthony Le Goas",
+      "photoUrl": "http://avatars.sched.co/3/88/13982160/avatar.jpg.320x320px.jpg?8be"
+    },
+    "13982166": {
+      "id": "13982166",
+      "name": "Antoine Caron",
+      "photoUrl": "http://avatars.sched.co/f/9d/13982166/avatar.jpg.320x320px.jpg?5dd"
+    },
+    "13982169": {
+      "id": "13982169",
+      "name": "Aurélie Vache",
+      "photoUrl": "http://avatars.sched.co/a/e7/13982169/avatar.jpg.320x320px.jpg?ec4"
+    },
+    "13982211": {
+      "id": "13982211",
+      "name": "Matthieu Vincent",
+      "photoUrl": "http://avatars.sched.co/1/51/13982211/avatar.jpg.320x320px.jpg?d53"
+    },
+    "13982217": {
+      "id": "13982217",
+      "name": "Nicolas Delsaux",
+      "photoUrl": "http://avatars.sched.co/d/78/13982217/avatar.jpg.320x320px.jpg?7bf"
+    },
+    "13982223": {
+      "id": "13982223",
+      "name": "Patrice De Saint Steban",
+      "photoUrl": "http://avatars.sched.co/a/56/13982223/avatar.jpg.320x320px.jpg?099"
+    },
+    "13982232": {
+      "id": "13982232",
+      "name": "Sylvain Coudert",
+      "photoUrl": "http://avatars.sched.co/7/47/13982232/avatar.jpg.320x320px.jpg?6bc"
+    },
+    "13987020": {
+      "id": "13987020",
+      "name": "Virginie Casavecchia",
+      "photoUrl": "http://avatars.sched.co/d/5b/13987020/avatar.jpg.320x320px.jpg?47b"
+    },
+    "14203916": {
+      "id": "14203916",
+      "name": "Chris Laprun",
+      "photoUrl": "http://avatars.sched.co/7/72/14203916/avatar.jpg.320x320px.jpg?21d"
+    },
+    "14265384": {
+      "id": "14265384",
+      "name": "Quentin Dunand",
+      "photoUrl": "http://avatars.sched.co/e/b1/14265384/avatar.jpg.320x320px.jpg?4a2"
+    },
+    "16863791": {
+      "id": "16863791",
+      "name": "Albéric Trancart",
+      "photoUrl": "http://avatars.sched.co/7/6a/16863791/avatar.jpg.320x320px.jpg?792"
+    },
+    "16863794": {
+      "id": "16863794",
+      "name": "Alexis Martinier",
+      "photoUrl": "http://avatars.sched.co/f/d0/16863794/avatar.jpg.320x320px.jpg?481"
+    },
+    "16863797": {
+      "id": "16863797",
+      "name": "Alves Mickaël",
+      "photoUrl": "http://avatars.sched.co/8/1e/16863797/avatar.jpg.320x320px.jpg?3f8"
+    },
+    "16863800": {
+      "id": "16863800",
+      "name": "Anne-laure De Boissieu",
+      "photoUrl": "http://avatars.sched.co/4/5c/16863800/avatar.jpg.320x320px.jpg?b00"
+    },
+    "16863803": {
+      "id": "16863803",
+      "name": "Antoine Wacheux",
+      "photoUrl": "http://avatars.sched.co/8/6b/16863803/avatar.jpg.320x320px.jpg?6f0"
+    },
+    "16863806": {
+      "id": "16863806",
+      "name": "Benjamin Einaudi",
+      "photoUrl": "http://avatars.sched.co/b/66/16863806/avatar.jpg.320x320px.jpg?fbd"
+    },
+    "16863809": {
+      "id": "16863809",
+      "name": "Benjamin Legrand",
+      "photoUrl": "http://avatars.sched.co/4/e4/16863809/avatar.jpg.320x320px.jpg?a2e"
+    },
+    "16863812": {
+      "id": "16863812",
+      "name": "Christophe Gigax",
+      "photoUrl": "http://avatars.sched.co/8/55/16863812/avatar.jpg.320x320px.jpg?445"
+    },
+    "16863815": {
+      "id": "16863815",
+      "name": "Christopher Maneu",
+      "photoUrl": "http://avatars.sched.co/b/eb/16863815/avatar.jpg.320x320px.jpg?be8"
+    },
+    "16863818": {
+      "id": "16863818",
+      "name": "Cécile Freyd-Foucault",
+      "photoUrl": "http://avatars.sched.co/1/1c/16863818/avatar.jpg.320x320px.jpg?31f"
+    },
+    "16863821": {
+      "id": "16863821",
+      "name": "Dieny Simon",
+      "photoUrl": "http://avatars.sched.co/2/5c/16863821/avatar.jpg.320x320px.jpg?9c5"
+    },
+    "16863824": {
+      "id": "16863824",
+      "name": "Dimitri Teboul",
+      "photoUrl": "http://avatars.sched.co/0/77/16863824/avatar.jpg.320x320px.jpg?ef6"
+    },
+    "16863827": {
+      "id": "16863827",
+      "name": "Eléa Petton",
+      "photoUrl": "http://avatars.sched.co/a/96/16863827/avatar.jpg.320x320px.jpg?b8f"
+    },
+    "16863830": {
+      "id": "16863830",
+      "name": "Guillaume Laforge",
+      "photoUrl": "http://avatars.sched.co/a/1d/16863830/avatar.jpg.320x320px.jpg?a7b"
+    },
+    "16863833": {
+      "id": "16863833",
+      "name": "Iris Naudin",
+      "photoUrl": "http://avatars.sched.co/8/9d/16863833/avatar.jpg.320x320px.jpg?eda"
+    },
+    "16863836": {
+      "id": "16863836",
+      "name": "Jean-françois Greffier",
+      "photoUrl": "http://avatars.sched.co/0/de/16863836/avatar.jpg.320x320px.jpg?1bc"
+    },
+    "16863839": {
+      "id": "16863839",
+      "name": "Josian Chevalier",
+      "photoUrl": "http://avatars.sched.co/a/6a/16863839/avatar.jpg.320x320px.jpg?d08"
+    },
+    "16863842": {
+      "id": "16863842",
+      "name": "Laurent Gil",
+      "photoUrl": "http://avatars.sched.co/0/cf/16863842/avatar.jpg.320x320px.jpg?5fb"
+    },
+    "16863845": {
+      "id": "16863845",
+      "name": "Lucas Audart",
+      "photoUrl": "http://avatars.sched.co/8/97/16863845/avatar.jpg.320x320px.jpg?3f0"
+    },
+    "16863848": {
+      "id": "16863848",
+      "name": "Maha Alsayasneh",
+      "photoUrl": "http://avatars.sched.co/3/bc/16863848/avatar.jpg.320x320px.jpg?bc0"
+    },
+    "16863851": {
+      "id": "16863851",
+      "name": "Marc-Alexandre Blanchard",
+      "photoUrl": "http://avatars.sched.co/3/87/16863851/avatar.jpg.320x320px.jpg?95b"
+    },
+    "16863854": {
+      "id": "16863854",
+      "name": "Marie-Alice Blete",
+      "photoUrl": "http://avatars.sched.co/6/44/16863854/avatar.jpg.320x320px.jpg?c91"
+    },
+    "16863857": {
+      "id": "16863857",
+      "name": "Marie-Laure Momplot",
+      "photoUrl": "http://avatars.sched.co/b/57/16863857/avatar.jpg.320x320px.jpg?c49"
+    },
+    "16863860": {
+      "id": "16863860",
+      "name": "Maxime Janvier",
+      "photoUrl": "http://avatars.sched.co/f/0e/16863860/avatar.jpg.320x320px.jpg?477"
+    },
+    "16863863": {
+      "id": "16863863",
+      "name": "Nicolas Giraud",
+      "photoUrl": "http://avatars.sched.co/0/af/16863863/avatar.jpg.320x320px.jpg?34b"
+    },
+    "16863866": {
+      "id": "16863866",
+      "name": "Ninon Broyelle"
+    },
+    "16863869": {
+      "id": "16863869",
+      "name": "Olivier Coupelon",
+      "photoUrl": "http://avatars.sched.co/2/14/16863869/avatar.jpg.320x320px.jpg?b29"
+    },
+    "16863872": {
+      "id": "16863872",
+      "name": "Olivier Jacques",
+      "photoUrl": "http://avatars.sched.co/1/25/16863872/avatar.jpg.320x320px.jpg?caa"
+    },
+    "16863875": {
+      "id": "16863875",
+      "name": "Olivier Poncet",
+      "photoUrl": "http://avatars.sched.co/a/a6/16863875/avatar.jpg.320x320px.jpg?0a6"
+    },
+    "16863878": {
+      "id": "16863878",
+      "name": "Patrick Brosset",
+      "photoUrl": "http://avatars.sched.co/9/e1/16863878/avatar.jpg.320x320px.jpg?671"
+    },
+    "16863932": {
+      "id": "16863932",
+      "name": "Horacio Gonzalez (lostinbrittany)"
+    },
+    "16864517": {
+      "id": "16864517",
+      "name": "Maxime Maillot"
+    },
+    "16864523": {
+      "id": "16864523",
+      "name": "Hector Meley"
+    },
+    "17054475": {
+      "id": "17054475",
+      "name": "Pauline Rambaud",
+      "photoUrl": "http://avatars.sched.co/2/86/17054475/avatar.jpg.320x320px.jpg?423"
+    },
+    "17215023": {
+      "id": "17215023",
+      "name": "Sébastien Viale",
+      "photoUrl": "http://avatars.sched.co/b/59/17215023/avatar.jpg.320x320px.jpg?c78"
+    },
+    "17215302": {
+      "id": "17215302",
+      "name": "Jean-Michel Durand",
+      "photoUrl": "http://avatars.sched.co/c/82/17215302/avatar.jpg.320x320px.jpg?fe1"
+    }
+  }
+}

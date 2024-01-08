@@ -35,3 +35,13 @@ SCHED_RO_KEY=<your_sched_readonly_key>
 ```
 
 You can also use the `npm run build:watch` command to automatically rebuild the script when a file is changed.
+
+### Sched format update
+
+If the Sched format was updated you can dump direction the raw data from Sched by running:
+
+```sh
+npm run start:sched
+```
+
+It will create a file `sched.json` with the raw data.

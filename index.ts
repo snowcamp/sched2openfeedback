@@ -6,14 +6,16 @@ dotenv.config();
 const schedUrl = process.env.SCHED_URL;
 const schedKey = process.env.SCHED_KEY_RO;
 const exportFile = 'openfeedback.json';
+const schedFile = 'sched.json';
 const timeZone = '+02:00';
 
-async function getSessions() {
+async function getSessions(raw: boolean = false) {
   const response = await fetch(`${schedUrl}/api/session/export?api_key=${schedKey}&format=json&strip_html=Y`);
   const sessions = await response.json() as SCSession[];
-  return sessions
+  return raw ? sessions : sessions
     .filter(s => s.active && (
       s.event_subtype === 'Talk' ||
+      s.event_subtype === 'Schuss' ||
       s.event_subtype === 'Workshop' ||
       s.event_subtype === 'Keynote'
     ));
@@ -74,4 +76,17 @@ async function main() {
   console.log(`Exported data to "${exportFile}" successfully.`);
 }
 
-main();
+async function debugSched() {
+  console.log('Retrieving sessions from sched...');
+
+  const sessions = await getSessions(true);
+  fs.writeFileSync(schedFile, JSON.stringify(sessions, null, 2))
+
+  console.log(`Exported raw sessions to "${schedFile}" successfully.`);
+}
+
+if (process.argv[2] === '--sched') {
+  debugSched();
+} else {
+  main();
+}

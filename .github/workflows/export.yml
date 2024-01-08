@@ -3,8 +3,8 @@ on:
   workflow_dispatch:
 
 env:
-  SCHED_URL: https://snowcamp2023.sched.com/
-  BRANCH: data-2023
+  SCHED_URL: https://snowcamp2024.sched.com/
+  BRANCH: data-2024
 
 jobs:
   release:

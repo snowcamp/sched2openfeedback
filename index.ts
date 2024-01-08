@@ -42,6 +42,11 @@ function exportOFData(sessions: SCSession[], avatars: SCAvatar[]) {
   }
 
   for (const session of sessions) {
+    if (!session.speakers?.length) {
+      console.error(`Session "${session.name}" has no speakers. Skipping...`);
+      continue;
+    }
+
     const speakers = session.speakers.map(speaker => {
       data.speakers[speaker.id] = {
         id: speaker.id,

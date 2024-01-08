@@ -7,7 +7,7 @@ env:
   BRANCH: data-2024
 
 jobs:
-  release:
+  export_data:
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main'
     steps:

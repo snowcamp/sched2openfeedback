@@ -51,7 +51,8 @@ function exportOFData(sessions: SCSession[], avatars: SCAvatar[]) {
       data.speakers[speaker.id] = {
         id: speaker.id,
         name: speaker.name,
-        ...(avatarByUsername[speaker.username] ? { photoUrl: avatarByUsername[speaker.username] } : {})
+        photoUrl: avatarByUsername[speaker.username] ?? ""
+        // ...(avatarByUsername[speaker.username] ? { photoUrl: avatarByUsername[speaker.username] } : {})
       }
       return speaker.id;
     });

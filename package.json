@@ -7,6 +7,7 @@
   "exports": "./index.js",
   "scripts": {
     "start": "node index.js",
+    "start:sched": "node index.js --sched",
     "build": "tsc",
     "build:watch": "tsc -w --sourceMap",
     "clean": "rm index.js* *.tgz"
@@ -35,7 +36,7 @@
   },
   "devDependencies": {
     "@types/node": "^18.11.18",
-    "typescript": "^4.9.4"
+    "typescript": "^5.3.3"
   },
   "files": [
     "index.js"

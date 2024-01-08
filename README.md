@@ -22,7 +22,7 @@ SCHED_RO_KEY=<your_sched_readonly_key>
 ## Snowcamp team guide
 
 1. Set or update [Actions secrets](https://github.com/snowcamp/sched2openfeedback/settings/secrets/actions) (if needed)
-  - `SCHED_KEY_RO`: read-only key for sched event
+  - `SCHED_KEY_RO`: read-only key for sched event. Can be found at https://snowcamp<year>.sched.com/editor/exports/api
   - `GITHUB_TOKEN`: a [GitHub PAT](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) with `repository` scope from someone with access to this repo
 
 2. Update `SCHED_URL` and `BRANCH` in [`export.yml`](https://github.com/snowcamp/sched2openfeedback/blob/main/.github/workflows/export.yml)

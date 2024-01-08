@@ -2,24 +2,9 @@
 
 Import data from [Sched](https://sched.com/) and export a JSON file in [OpenFeedback](https://openfeedback.io/) format.
 
-## Usage
-
-```sh
-npm install
-npm start
-```
-
-A file `openfeedback.json` will be created, to be imported in OpenFeedback.
-
-You need to specify these 2 environment variables:
-```
-SCHED_URL=https://<you_event>.sched.com/
-SCHED_RO_KEY=<your_sched_readonly_key>
-```
-
-`.env` files are supported.
-
 ## Snowcamp team guide
+
+How to prepare for a new edition:
 
 1. Set or update [Actions secrets](https://github.com/snowcamp/sched2openfeedback/settings/secrets/actions) (if needed)
   - `SCHED_KEY_RO`: read-only key for sched event. Can be found at https://snowcamp<year>.sched.com/editor/exports/api
@@ -31,3 +16,22 @@ SCHED_RO_KEY=<your_sched_readonly_key>
 
 4. You can now use the URL `https://raw.githubusercontent.com/snowcamp/sched2openfeedback/<BRANCH>/openfeedback.json` to import data in OpenFeedback.
 
+## Development
+
+If the script needs to be updated, you can run it locally. Clone the repo, then:
+
+```sh
+npm install
+npm run build
+npm start
+```
+
+A file `openfeedback.json` will be created, to be imported in OpenFeedback.
+
+You need to specify these 2 environment variables, either in your shell or in a `.env` file at the root of the project:
+```
+SCHED_URL=https://<you_event>.sched.com/
+SCHED_RO_KEY=<your_sched_readonly_key>
+```
+
+You can also use the `npm run build:watch` command to automatically rebuild the script when a file is changed.

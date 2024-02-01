@@ -1,0 +1,1219 @@
+{
+  "sessions": {
+    "261f535adce399428564cf4bc431fff5": {
+      "id": "261f535adce399428564cf4bc431fff5",
+      "tags": [
+        "Backend",
+        "Workshop"
+      ],
+      "title": "Venez construire un monolithe spring modulaire!",
+      "startTime": "2024-01-31T09:30+02:00",
+      "endTime": "2024-01-31T12:30+02:00",
+      "trackTitle": "Everest",
+      "speakers": [
+        "19779356",
+        "16863806"
+      ]
+    },
+    "d7976860c1501ba9c5385309e1150260": {
+      "id": "d7976860c1501ba9c5385309e1150260",
+      "tags": [
+        "Backend",
+        "Workshop"
+      ],
+      "title": "Voyage au coeur d'Appwrite : le backend open-source qui challenge Firebase 🧳",
+      "startTime": "2024-01-31T09:30+02:00",
+      "endTime": "2024-01-31T12:30+02:00",
+      "trackTitle": "Mont Blanc 1",
+      "speakers": [
+        "16863845",
+        "16863797"
+      ]
+    },
+    "d83195ad7c5a6422c2caf7d3d444e27c": {
+      "id": "d83195ad7c5a6422c2caf7d3d444e27c",
+      "tags": [
+        "Cloud DevOps Sécurité",
+        "Workshop"
+      ],
+      "title": "La sécurité, par où commencer ? Install party 🎉",
+      "startTime": "2024-01-31T09:30+02:00",
+      "endTime": "2024-01-31T12:30+02:00",
+      "trackTitle": "Mont Blanc 3",
+      "speakers": [
+        "10437814",
+        "19779392"
+      ]
+    },
+    "adb58f62a15b5a0722228859b1fe6dbc": {
+      "id": "adb58f62a15b5a0722228859b1fe6dbc",
+      "tags": [
+        "Cloud DevOps Sécurité",
+        "Workshop"
+      ],
+      "title": "🍳 Recette pour des environnements aux petits oignons pour ton déploiement continu 🚀",
+      "startTime": "2024-01-31T09:30+02:00",
+      "endTime": "2024-01-31T12:30+02:00",
+      "trackTitle": "Mont Blanc 2",
+      "speakers": [
+        "19779323",
+        "13982211"
+      ]
+    },
+    "1a69e6bc5daed20aa4d247de94a9525f": {
+      "id": "1a69e6bc5daed20aa4d247de94a9525f",
+      "tags": [
+        "Language Architecture AI",
+        "Workshop"
+      ],
+      "title": "Comprendre l'IA: construisez votre propre ChatGPT sécurisé avec Node.js et LangChain",
+      "startTime": "2024-01-31T09:30+02:00",
+      "endTime": "2024-01-31T12:30+02:00",
+      "trackTitle": "Mont Blanc 4",
+      "speakers": [
+        "6779610",
+        "19813587"
+      ]
+    },
+    "d6c61f8f9e920f5c5124b01bc5d81719": {
+      "id": "d6c61f8f9e920f5c5124b01bc5d81719",
+      "tags": [
+        "Cloud DevOps Sécurité",
+        "Workshop"
+      ],
+      "title": "Exploiting AWS Misconfigurations: A Capture the Flag Workshop",
+      "startTime": "2024-01-31T14:00+02:00",
+      "endTime": "2024-01-31T17:00+02:00",
+      "trackTitle": "Mont Blanc 3",
+      "speakers": [
+        "19779314",
+        "19779312"
+      ]
+    },
+    "ac9ec2eaa8bcde45fce1c36c1faa34a8": {
+      "id": "ac9ec2eaa8bcde45fce1c36c1faa34a8",
+      "tags": [
+        "Cloud DevOps Sécurité",
+        "Workshop"
+      ],
+      "title": "Venez créer un instagram-clone en full-stack en 3 heures!",
+      "startTime": "2024-01-31T14:00+02:00",
+      "endTime": "2024-01-31T17:00+02:00",
+      "trackTitle": "Mont Blanc 1",
+      "speakers": [
+        "19955260",
+        "10112013"
+      ]
+    },
+    "521d7cc846046add0d5e8257819f7fa9": {
+      "id": "521d7cc846046add0d5e8257819f7fa9",
+      "tags": [
+        "Language Architecture AI",
+        "Workshop"
+      ],
+      "title": "Créer des plugins en Rust, TinyGo, ... pour vos applications Go avec WebAssembly et Wazero et Extism",
+      "startTime": "2024-01-31T14:00+02:00",
+      "endTime": "2024-01-31T17:00+02:00",
+      "trackTitle": "Mont Blanc 2",
+      "speakers": [
+        "2541700"
+      ]
+    },
+    "6aef0438d2a265be78b07bffc554ca88": {
+      "id": "6aef0438d2a265be78b07bffc554ca88",
+      "tags": [
+        "Language Architecture AI",
+        "Workshop"
+      ],
+      "title": "Docker Compose, zero to hero",
+      "startTime": "2024-01-31T14:00+02:00",
+      "endTime": "2024-01-31T17:00+02:00",
+      "trackTitle": "Everest",
+      "speakers": [
+        "13982190",
+        "2375806"
+      ]
+    },
+    "07b7d7652979979811fb07f34fd64511": {
+      "id": "07b7d7652979979811fb07f34fd64511",
+      "tags": [
+        "Language Architecture AI",
+        "Workshop"
+      ],
+      "title": "Viens dompter ta première IA en Python",
+      "startTime": "2024-01-31T14:00+02:00",
+      "endTime": "2024-01-31T17:00+02:00",
+      "trackTitle": "Mont Blanc 4",
+      "speakers": [
+        "17455502",
+        "11170681"
+      ]
+    },
+    "7a6a7dec4c17be739a7441a70ed03d4d": {
+      "id": "7a6a7dec4c17be739a7441a70ed03d4d",
+      "tags": [
+        "Language Architecture AI",
+        "Keynote"
+      ],
+      "title": "La compression Web : comment (re)prendre le contrôle ?",
+      "startTime": "2024-02-01T09:15+02:00",
+      "endTime": "2024-02-01T10:00+02:00",
+      "trackTitle": "Auditorium",
+      "speakers": [
+        "13982166",
+        "19779320"
+      ]
+    },
+    "6358ef27089e26f2fbb598e44f0c2fd5": {
+      "id": "6358ef27089e26f2fbb598e44f0c2fd5",
+      "tags": [
+        "Backend",
+        "Talk"
+      ],
+      "title": "Quarkus : Greener, Better, Faster, stronger.",
+      "startTime": "2024-02-01T10:10+02:00",
+      "endTime": "2024-02-01T11:00+02:00",
+      "trackTitle": "Mont Blanc",
+      "speakers": [
+        "19779326"
+      ]
+    },
+    "e8fb61196cff17a1044a4fe5942505e9": {
+      "id": "e8fb61196cff17a1044a4fe5942505e9",
+      "tags": [
+        "Cloud DevOps Sécurité",
+        "Talk"
+      ],
+      "title": "Chaos Engineering: REX d'un DevOps ambitieux",
+      "startTime": "2024-02-01T10:10+02:00",
+      "endTime": "2024-02-01T11:00+02:00",
+      "trackTitle": "Makalu",
+      "speakers": [
+        "19779318"
+      ]
+    },
+    "a748d2316b4a53fc55c478c3072ef26a": {
+      "id": "a748d2316b4a53fc55c478c3072ef26a",
+      "tags": [
+        "Cloud DevOps Sécurité",
+        "Talk"
+      ],
+      "title": "Votre propre kube as a service ? Une aventure dont vous êtes le héros...",
+      "startTime": "2024-02-01T10:10+02:00",
+      "endTime": "2024-02-01T11:00+02:00",
+      "trackTitle": "Auditorium",
+      "speakers": [
+        "3734658"
+      ]
+    },
+    "21cedfb7b52dd29fe9bf71e3c5ba615f": {
+      "id": "21cedfb7b52dd29fe9bf71e3c5ba615f",
+      "tags": [
+        "Language Architecture AI",
+        "Talk"
+      ],
+      "title": "ESI : le cache HTTP en petits bouts",
+      "startTime": "2024-02-01T10:10+02:00",
+      "endTime": "2024-02-01T11:00+02:00",
+      "trackTitle": "Kilimanjaro",
+      "speakers": [
+        "19779347"
+      ]
+    },
+    "540915a5be870342722b37db9bb53b69": {
+      "id": "540915a5be870342722b37db9bb53b69",
+      "tags": [
+        "Cloud DevOps Sécurité",
+        "Talk"
+      ],
+      "title": "2 ans de migrations en environnement \"cloud native\" quand on n'est ni une startup, ni dans le CAC40",
+      "startTime": "2024-02-01T11:10+02:00",
+      "endTime": "2024-02-01T12:00+02:00",
+      "trackTitle": "Kilimanjaro",
+      "speakers": [
+        "6662479"
+      ]
+    },
+    "d9d940777555fb6f1d88c5b9a2188563": {
+      "id": "d9d940777555fb6f1d88c5b9a2188563",
+      "tags": [
+        "Hors-piste",
+        "Talk"
+      ],
+      "title": "Du Flop au Top : Comment améliorer vos POC ?",
+      "startTime": "2024-02-01T11:10+02:00",
+      "endTime": "2024-02-01T12:00+02:00",
+      "trackTitle": "Makalu",
+      "speakers": [
+        "19779344"
+      ]
+    },
+    "475f67612a79b6904c1eeeb9d9cb9d75": {
+      "id": "475f67612a79b6904c1eeeb9d9cb9d75",
+      "tags": [
+        "Language Architecture AI",
+        "Talk"
+      ],
+      "title": "Code Case : les méthodes de la crim adaptées au code!",
+      "startTime": "2024-02-01T11:10+02:00",
+      "endTime": "2024-02-01T12:00+02:00",
+      "trackTitle": "Auditorium",
+      "speakers": [
+        "13982232"
+      ]
+    },
+    "e57702080e3553d46d3d162164108ef9": {
+      "id": "e57702080e3553d46d3d162164108ef9",
+      "tags": [
+        "UX Frontend",
+        "Talk"
+      ],
+      "title": "10 tests simples pour améliorer l'accessibilité de votre site",
+      "startTime": "2024-02-01T11:10+02:00",
+      "endTime": "2024-02-01T12:00+02:00",
+      "trackTitle": "Mont Blanc",
+      "speakers": [
+        "19779372"
+      ]
+    },
+    "d2a0375495755238f48062344f2163d9": {
+      "id": "d2a0375495755238f48062344f2163d9",
+      "tags": [
+        "Hors-piste",
+        "Schuss"
+      ],
+      "title": "Bootez votre carrière : senior engineer ou manager ?",
+      "startTime": "2024-02-01T12:10+02:00",
+      "endTime": "2024-02-01T12:30+02:00",
+      "trackTitle": "Makalu",
+      "speakers": [
+        "2544133"
+      ]
+    },
+    "059106cf50f7de2dee70ebb9b46475a9": {
+      "id": "059106cf50f7de2dee70ebb9b46475a9",
+      "tags": [
+        "Hors-piste",
+        "Schuss"
+      ],
+      "title": "L’Art Génératif Dévoilé : Plongez dans l’univers créatif de l’IA",
+      "startTime": "2024-02-01T12:10+02:00",
+      "endTime": "2024-02-01T12:30+02:00",
+      "trackTitle": "Mont Blanc",
+      "speakers": [
+        "19931703"
+      ]
+    },
+    "1f10c2005ceaca0267f5f24d38dc7fbb": {
+      "id": "1f10c2005ceaca0267f5f24d38dc7fbb",
+      "tags": [
+        "Language Architecture AI",
+        "Schuss"
+      ],
+      "title": "Picocli, mets du Java dans ton terminal !",
+      "startTime": "2024-02-01T12:10+02:00",
+      "endTime": "2024-02-01T12:30+02:00",
+      "trackTitle": "Auditorium",
+      "speakers": [
+        "11170681"
+      ]
+    },
+    "7b6d9c61614c1264fd2654e89f5c93e9": {
+      "id": "7b6d9c61614c1264fd2654e89f5c93e9",
+      "tags": [
+        "UX Frontend",
+        "Schuss"
+      ],
+      "title": "De la couleurs dans nos Apps",
+      "startTime": "2024-02-01T12:10+02:00",
+      "endTime": "2024-02-01T12:30+02:00",
+      "trackTitle": "Kilimanjaro",
+      "speakers": [
+        "7022098"
+      ]
+    },
+    "4f93eac7f939898f8614f6ca1fcb4ce8": {
+      "id": "4f93eac7f939898f8614f6ca1fcb4ce8",
+      "tags": [
+        "Cloud DevOps Sécurité",
+        "Talk"
+      ],
+      "title": "Devenez des orfèvres de la CI",
+      "startTime": "2024-02-01T14:00+02:00",
+      "endTime": "2024-02-01T14:45+02:00",
+      "trackTitle": "Mont Blanc",
+      "speakers": [
+        "19779374",
+        "19779377"
+      ]
+    },
+    "33cbdd1321edc88ef8faab96217fccb6": {
+      "id": "33cbdd1321edc88ef8faab96217fccb6",
+      "tags": [
+        "Cloud DevOps Sécurité",
+        "Talk"
+      ],
+      "title": "📝 ✅ La checklist ultime pour rendre vos applications cloud native !",
+      "startTime": "2024-02-01T14:00+02:00",
+      "endTime": "2024-02-01T14:45+02:00",
+      "trackTitle": "Makalu",
+      "speakers": [
+        "19779389"
+      ]
+    },
+    "0b4f11a59acfb73941f6a02f9e24b37a": {
+      "id": "0b4f11a59acfb73941f6a02f9e24b37a",
+      "tags": [
+        "Language Architecture AI",
+        "Talk"
+      ],
+      "title": "Au delà des architectures micro-services, découvrez les architectures composables !",
+      "startTime": "2024-02-01T14:00+02:00",
+      "endTime": "2024-02-01T14:45+02:00",
+      "trackTitle": "Auditorium",
+      "speakers": [
+        "19779393"
+      ]
+    },
+    "a2f94fb13f734b44c7bf3c07245f83c2": {
+      "id": "a2f94fb13f734b44c7bf3c07245f83c2",
+      "tags": [
+        "Language Architecture AI",
+        "Talk"
+      ],
+      "title": "Partez au ski en toute sécurité",
+      "startTime": "2024-02-01T14:00+02:00",
+      "endTime": "2024-02-01T14:45+02:00",
+      "trackTitle": "Kilimanjaro",
+      "speakers": [
+        "19779386"
+      ]
+    },
+    "b30ddd10bab7fa8b42a5a39870ffb9c1": {
+      "id": "b30ddd10bab7fa8b42a5a39870ffb9c1",
+      "tags": [
+        "Backend",
+        "Talk"
+      ],
+      "title": "OAuth2, OpenID: le SSO en live-coding et sans framework",
+      "startTime": "2024-02-01T15:00+02:00",
+      "endTime": "2024-02-01T15:45+02:00",
+      "trackTitle": "Makalu",
+      "speakers": [
+        "19779338"
+      ]
+    },
+    "cc59ae737b66fe783efe93f39d6f0313": {
+      "id": "cc59ae737b66fe783efe93f39d6f0313",
+      "tags": [
+        "Cloud DevOps Sécurité",
+        "Talk"
+      ],
+      "title": "Practical introduction to OpenTelemetry tracing",
+      "startTime": "2024-02-01T15:00+02:00",
+      "endTime": "2024-02-01T15:45+02:00",
+      "trackTitle": "Kilimanjaro",
+      "speakers": [
+        "13159461"
+      ]
+    },
+    "6a926fd057614ef7a453e390a30db844": {
+      "id": "6a926fd057614ef7a453e390a30db844",
+      "tags": [
+        "Hors-piste",
+        "Talk"
+      ],
+      "title": "STOP à l’espionnage ! Comment disparaître d’internet ? 🕵🏼‍♂️",
+      "startTime": "2024-02-01T15:00+02:00",
+      "endTime": "2024-02-01T15:45+02:00",
+      "trackTitle": "Mont Blanc",
+      "speakers": [
+        "19779396",
+        "16863797"
+      ]
+    },
+    "5e8570a6bdf3134cc4462c5c6318e902": {
+      "id": "5e8570a6bdf3134cc4462c5c6318e902",
+      "tags": [
+        "Language Architecture AI",
+        "Talk"
+      ],
+      "title": "Le Prompt Engineering pour les nuls, où comment utiliser plus efficacement la puissance des LLMs !",
+      "startTime": "2024-02-01T15:00+02:00",
+      "endTime": "2024-02-01T15:45+02:00",
+      "trackTitle": "Auditorium",
+      "speakers": [
+        "6724089",
+        "19805396"
+      ]
+    },
+    "fbc75871330cb9c3405eaf442ef96ce4": {
+      "id": "fbc75871330cb9c3405eaf442ef96ce4",
+      "tags": [
+        "Cloud DevOps Sécurité",
+        "Talk"
+      ],
+      "title": "Une alternative libre à Docker: Podman",
+      "startTime": "2024-02-01T16:00+02:00",
+      "endTime": "2024-02-01T16:45+02:00",
+      "trackTitle": "Makalu",
+      "speakers": [
+        "19779365"
+      ]
+    },
+    "882c183d5c5134a531b5c23c42768a56": {
+      "id": "882c183d5c5134a531b5c23c42768a56",
+      "tags": [
+        "Cloud DevOps Sécurité",
+        "Talk"
+      ],
+      "title": "Web dans le cloud, piloter ses décisions par les coûts",
+      "startTime": "2024-02-01T16:00+02:00",
+      "endTime": "2024-02-01T16:45+02:00",
+      "trackTitle": "Mont Blanc",
+      "speakers": [
+        "19779371"
+      ]
+    },
+    "1db4c7a4523a2efb7eb332d1dcfd4195": {
+      "id": "1db4c7a4523a2efb7eb332d1dcfd4195",
+      "tags": [
+        "Hors-piste",
+        "Talk"
+      ],
+      "title": "Le duo gagnant : Antora et AsciiDoc pour une documentation sans frustrations",
+      "startTime": "2024-02-01T16:00+02:00",
+      "endTime": "2024-02-01T16:45+02:00",
+      "trackTitle": "Kilimanjaro",
+      "speakers": [
+        "19779368",
+        "14269974"
+      ]
+    },
+    "a6bff44815c73933df18669e509d6304": {
+      "id": "a6bff44815c73933df18669e509d6304",
+      "tags": [
+        "UX Frontend",
+        "Talk"
+      ],
+      "title": "CSS renaît de ses cendres: (re)devenez copains avec votre feuille de style",
+      "startTime": "2024-02-01T16:00+02:00",
+      "endTime": "2024-02-01T16:45+02:00",
+      "trackTitle": "Auditorium",
+      "speakers": [
+        "19955260",
+        "6779610",
+        "10112013"
+      ]
+    },
+    "74fed83a9ee9b97f0156d9825db92bb0": {
+      "id": "74fed83a9ee9b97f0156d9825db92bb0",
+      "tags": [
+        "Hors-piste",
+        "Keynote"
+      ],
+      "title": "Mieux cultiver et mieux manger grâce au logiciel : la tech au service de l'agriculture",
+      "startTime": "2024-02-02T09:15+02:00",
+      "endTime": "2024-02-02T10:00+02:00",
+      "trackTitle": "Auditorium",
+      "speakers": [
+        "19779353",
+        "19779395"
+      ]
+    },
+    "aa46493872ad962097dd52565043d80e": {
+      "id": "aa46493872ad962097dd52565043d80e",
+      "tags": [
+        "Backend",
+        "Talk"
+      ],
+      "title": "Green Java 🌿 ou comment appliquer l'écoconception à son code ☕",
+      "startTime": "2024-02-02T10:10+02:00",
+      "endTime": "2024-02-02T11:00+02:00",
+      "trackTitle": "Makalu",
+      "speakers": [
+        "19779329"
+      ]
+    },
+    "6f9f6bbba1d94ad45696d7935e8f935f": {
+      "id": "6f9f6bbba1d94ad45696d7935e8f935f",
+      "tags": [
+        "Hors-piste",
+        "Talk"
+      ],
+      "title": "Vous pouvez venir à ce talk les yeux fermés",
+      "startTime": "2024-02-02T10:10+02:00",
+      "endTime": "2024-02-02T11:00+02:00",
+      "trackTitle": "Kilimanjaro",
+      "speakers": [
+        "19779372"
+      ]
+    },
+    "1dd872a65985529fcdafbb859e2c8a4c": {
+      "id": "1dd872a65985529fcdafbb859e2c8a4c",
+      "tags": [
+        "Language Architecture AI",
+        "Talk"
+      ],
+      "title": "Le développement augmenté à l'IA: tout ce qui va changer",
+      "startTime": "2024-02-02T10:10+02:00",
+      "endTime": "2024-02-02T11:00+02:00",
+      "trackTitle": "Auditorium",
+      "speakers": [
+        "6779610"
+      ]
+    },
+    "671c408d64edce1802ac31addc9072ec": {
+      "id": "671c408d64edce1802ac31addc9072ec",
+      "tags": [
+        "UX Frontend",
+        "Talk"
+      ],
+      "title": "Le futur du web est sur la périphérie du réseau",
+      "startTime": "2024-02-02T10:10+02:00",
+      "endTime": "2024-02-02T11:00+02:00",
+      "trackTitle": "Mont Blanc",
+      "speakers": [
+        "13982199"
+      ]
+    },
+    "76306999ba6dc1428649633e9b809e23": {
+      "id": "76306999ba6dc1428649633e9b809e23",
+      "tags": [
+        "Cloud DevOps Sécurité",
+        "Talk"
+      ],
+      "title": "Arrêtez de cacher la sécurité de votre application à côté des monstres sous votre lit ?",
+      "startTime": "2024-02-02T11:10+02:00",
+      "endTime": "2024-02-02T12:00+02:00",
+      "trackTitle": "Kilimanjaro",
+      "speakers": [
+        "17022951"
+      ]
+    },
+    "92d20b024c6311b67ae442c6d7f43982": {
+      "id": "92d20b024c6311b67ae442c6d7f43982",
+      "tags": [
+        "Hors-piste",
+        "Talk"
+      ],
+      "title": "J’ai voulu m’acheter un jogging : quand une expérience sans couture dessert l’utilisateur",
+      "startTime": "2024-02-02T11:10+02:00",
+      "endTime": "2024-02-02T12:00+02:00",
+      "trackTitle": "Auditorium",
+      "speakers": [
+        "19779348",
+        "16863833"
+      ]
+    },
+    "6065eb3cc832f8b9bb4b4e89c5815273": {
+      "id": "6065eb3cc832f8b9bb4b4e89c5815273",
+      "tags": [
+        "Language Architecture AI",
+        "Talk"
+      ],
+      "title": "SELECT 'amazing_features' FROM \"posgresql\"",
+      "startTime": "2024-02-02T11:10+02:00",
+      "endTime": "2024-02-02T12:00+02:00",
+      "trackTitle": "Makalu",
+      "speakers": [
+        "6779616"
+      ]
+    },
+    "fe0b475b279a76b82c1a9a2788b6401d": {
+      "id": "fe0b475b279a76b82c1a9a2788b6401d",
+      "tags": [
+        "UX Frontend",
+        "Talk"
+      ],
+      "title": "Survivre dans la JS-jungle des outils de tests",
+      "startTime": "2024-02-02T11:10+02:00",
+      "endTime": "2024-02-02T12:00+02:00",
+      "trackTitle": "Mont Blanc",
+      "speakers": [
+        "19779357"
+      ]
+    },
+    "6b97ee2f37ba238fa00f0ff7a02b6049": {
+      "id": "6b97ee2f37ba238fa00f0ff7a02b6049",
+      "tags": [
+        "Hors-piste",
+        "Schuss"
+      ],
+      "title": "Automatisez l'installation de votre poste de travail !",
+      "startTime": "2024-02-02T12:10+02:00",
+      "endTime": "2024-02-02T12:30+02:00",
+      "trackTitle": "Mont Blanc",
+      "speakers": [
+        "19985226"
+      ]
+    },
+    "77c301e2b294ef01a73a4905f73c1efe": {
+      "id": "77c301e2b294ef01a73a4905f73c1efe",
+      "tags": [
+        "Hors-piste",
+        "Schuss"
+      ],
+      "title": "Dans le monde de la tech, on se demande souvent en chantant, 'Où sont les femmes ?'",
+      "startTime": "2024-02-02T12:10+02:00",
+      "endTime": "2024-02-02T12:30+02:00",
+      "trackTitle": "Auditorium",
+      "speakers": [
+        "19779315"
+      ]
+    },
+    "b73a6e286936f85a7b3e7cac47e11122": {
+      "id": "b73a6e286936f85a7b3e7cac47e11122",
+      "tags": [
+        "Hors-piste",
+        "Schuss"
+      ],
+      "title": "Filouter au quotidien à l'aide de petits scripts",
+      "startTime": "2024-02-02T12:10+02:00",
+      "endTime": "2024-02-02T12:30+02:00",
+      "trackTitle": "Makalu",
+      "speakers": [
+        "19779380"
+      ]
+    },
+    "3258526d209953f8c1eef7a2860ddbd8": {
+      "id": "3258526d209953f8c1eef7a2860ddbd8",
+      "tags": [
+        "Hors-piste",
+        "Schuss"
+      ],
+      "title": "Il n'est jamais trop tard pour redevenir junior",
+      "startTime": "2024-02-02T12:10+02:00",
+      "endTime": "2024-02-02T12:30+02:00",
+      "trackTitle": "Kilimanjaro",
+      "speakers": [
+        "19955287"
+      ]
+    },
+    "38c3a45c207904541ee972de5a383dbb": {
+      "id": "38c3a45c207904541ee972de5a383dbb",
+      "tags": [
+        "Backend",
+        "Talk"
+      ],
+      "title": "JAVA 21: What's new",
+      "startTime": "2024-02-02T14:00+02:00",
+      "endTime": "2024-02-02T14:45+02:00",
+      "trackTitle": "Kilimanjaro",
+      "speakers": [
+        "19779383"
+      ]
+    },
+    "fb2f9f1447f8119394430f690e9b8465": {
+      "id": "fb2f9f1447f8119394430f690e9b8465",
+      "tags": [
+        "Cloud DevOps Sécurité",
+        "Talk"
+      ],
+      "title": "Go Serverless! But is it secure?",
+      "startTime": "2024-02-02T14:00+02:00",
+      "endTime": "2024-02-02T14:45+02:00",
+      "trackTitle": "Mont Blanc",
+      "speakers": [
+        "19779332"
+      ]
+    },
+    "b1f36a2d90e921340e201baaeff3f877": {
+      "id": "b1f36a2d90e921340e201baaeff3f877",
+      "tags": [
+        "Cloud DevOps Sécurité",
+        "Talk"
+      ],
+      "title": "Mise en place et suivi de la sécurité grâce à l'instauration de la conformité SOC2: SAST, DAST, Penetration Testing",
+      "startTime": "2024-02-02T14:00+02:00",
+      "endTime": "2024-02-02T14:45+02:00",
+      "trackTitle": "Makalu",
+      "speakers": [
+        "17427222"
+      ]
+    },
+    "bd2f919d3830acdf4ca149adcceb7db7": {
+      "id": "bd2f919d3830acdf4ca149adcceb7db7",
+      "tags": [
+        "UX Frontend",
+        "Talk"
+      ],
+      "title": "Plongeons au coeur des frameworks frontend modernes pour comprendre leur réactivité🔬⚛️",
+      "startTime": "2024-02-02T14:00+02:00",
+      "endTime": "2024-02-02T14:45+02:00",
+      "trackTitle": "Auditorium",
+      "speakers": [
+        "10757849"
+      ]
+    },
+    "f2337627ed72ebc85b9f6ee8f18b92fb": {
+      "id": "f2337627ed72ebc85b9f6ee8f18b92fb",
+      "tags": [
+        "Backend",
+        "Talk"
+      ],
+      "title": "Tester du legacy grace à l'Approval testing",
+      "startTime": "2024-02-02T15:00+02:00",
+      "endTime": "2024-02-02T15:45+02:00",
+      "trackTitle": "Mont Blanc",
+      "speakers": [
+        "19779339"
+      ]
+    },
+    "91dad1965c2f4ae9c4612f37c8d17aff": {
+      "id": "91dad1965c2f4ae9c4612f37c8d17aff",
+      "tags": [
+        "Language Architecture AI",
+        "Talk"
+      ],
+      "title": "Loi de Conway : Lorsque les bonnes pratiques ne suffisent pas",
+      "startTime": "2024-02-02T15:00+02:00",
+      "endTime": "2024-02-02T15:45+02:00",
+      "trackTitle": "Auditorium",
+      "speakers": [
+        "10111974"
+      ]
+    },
+    "d507011371641284f3df2a50e440749a": {
+      "id": "d507011371641284f3df2a50e440749a",
+      "tags": [
+        "UX Frontend",
+        "Talk"
+      ],
+      "title": "Ajouter facilement des animations dans sa navigation Web avec la _Transition view API_ !",
+      "startTime": "2024-02-02T15:00+02:00",
+      "endTime": "2024-02-02T15:45+02:00",
+      "trackTitle": "Kilimanjaro",
+      "speakers": [
+        "19779335"
+      ]
+    },
+    "921102422701cc196b805e0fabc2839d": {
+      "id": "921102422701cc196b805e0fabc2839d",
+      "tags": [
+        "UX Frontend",
+        "Talk"
+      ],
+      "title": "From Zero to Qwik: Building Your First App with Confidence",
+      "startTime": "2024-02-02T15:00+02:00",
+      "endTime": "2024-02-02T15:45+02:00",
+      "trackTitle": "Makalu",
+      "speakers": [
+        "19779341"
+      ]
+    },
+    "83fe8e07979d36ffa874f53e9e4e96ff": {
+      "id": "83fe8e07979d36ffa874f53e9e4e96ff",
+      "tags": [
+        "Hors-piste",
+        "Talk"
+      ],
+      "title": "Apprends à dompter la Data sans douter de toi !",
+      "startTime": "2024-02-02T16:00+02:00",
+      "endTime": "2024-02-02T16:45+02:00",
+      "trackTitle": "Makalu",
+      "speakers": [
+        "19779350"
+      ]
+    },
+    "ffffcaea860b0be405ce80cade38cdb2": {
+      "id": "ffffcaea860b0be405ce80cade38cdb2",
+      "tags": [
+        "Language Architecture AI",
+        "Talk"
+      ],
+      "title": "Adoptez la clean archigonale",
+      "startTime": "2024-02-02T16:00+02:00",
+      "endTime": "2024-02-02T16:45+02:00",
+      "trackTitle": "Kilimanjaro",
+      "speakers": [
+        "19779354"
+      ]
+    },
+    "d8b5e7c5cc55212cb84edbb056c28cb9": {
+      "id": "d8b5e7c5cc55212cb84edbb056c28cb9",
+      "tags": [
+        "Language Architecture AI",
+        "Talk"
+      ],
+      "title": "Nos solutions sont elles des problèmes? Notre métier face au dilemme de la poule et l'oeuf?",
+      "startTime": "2024-02-02T16:00+02:00",
+      "endTime": "2024-02-02T16:45+02:00",
+      "trackTitle": "Mont Blanc",
+      "speakers": [
+        "14269973"
+      ]
+    },
+    "8d337d872d689d988001f9174d7e0f4a": {
+      "id": "8d337d872d689d988001f9174d7e0f4a",
+      "tags": [
+        "Language Architecture AI",
+        "Talk"
+      ],
+      "title": "Rock with RAG : Augmentons les Large Language Models",
+      "startTime": "2024-02-02T16:00+02:00",
+      "endTime": "2024-02-02T16:45+02:00",
+      "trackTitle": "Auditorium",
+      "speakers": [
+        "19779278"
+      ]
+    }
+  },
+  "speakers": {
+    "2375806": {
+      "id": "2375806",
+      "name": "ndeloof",
+      "photoUrl": "http://avatars.sched.co/6/60/2375806/avatar.jpg.320x320px.jpg?82b"
+    },
+    "2541700": {
+      "id": "2541700",
+      "name": "Philippe Charrière",
+      "photoUrl": "http://avatars.sched.co/4/cd/2541700/avatar.jpg.320x320px.jpg?654"
+    },
+    "2544133": {
+      "id": "2544133",
+      "name": "Luiza Cicone",
+      "photoUrl": "http://avatars.sched.co/0/42/2544133/avatar.jpg.320x320px.jpg?271"
+    },
+    "3734658": {
+      "id": "3734658",
+      "name": "Louis Tournayre",
+      "photoUrl": "http://avatars.sched.co/6/c1/3734658/avatar.jpg.320x320px.jpg?9dd"
+    },
+    "6662479": {
+      "id": "6662479",
+      "name": "rverchere",
+      "photoUrl": "http://avatars.sched.co/9/23/6662479/avatar.jpg.320x320px.jpg?fac"
+    },
+    "6724089": {
+      "id": "6724089",
+      "name": "Philippe Laumay",
+      "photoUrl": "http://avatars.sched.co/9/65/6724089/avatar.jpg.320x320px.jpg?962"
+    },
+    "6779610": {
+      "id": "6779610",
+      "name": "Yohan Lasorsa",
+      "photoUrl": "http://avatars.sched.co/5/f3/6779610/avatar.jpg.320x320px.jpg?581"
+    },
+    "6779616": {
+      "id": "6779616",
+      "name": "Kevin Davin",
+      "photoUrl": "http://avatars.sched.co/9/3f/6779616/avatar.jpg.320x320px.jpg?b57"
+    },
+    "7022098": {
+      "id": "7022098",
+      "name": "Emmanuel De Saint Steban",
+      "photoUrl": "http://avatars.sched.co/6/b7/7022098/avatar.jpg.320x320px.jpg?43a"
+    },
+    "10111974": {
+      "id": "10111974",
+      "name": "Julien Topçu",
+      "photoUrl": "http://avatars.sched.co/4/05/10111974/avatar.jpg.320x320px.jpg?fbb"
+    },
+    "10112013": {
+      "id": "10112013",
+      "name": "Olivier Leplus",
+      "photoUrl": "http://avatars.sched.co/b/de/10112013/avatar.jpg.320x320px.jpg?763"
+    },
+    "10437814": {
+      "id": "10437814",
+      "name": "David Aparicio",
+      "photoUrl": "http://avatars.sched.co/5/5b/10437814/avatar.jpg.320x320px.jpg?8c4"
+    },
+    "10757849": {
+      "id": "10757849",
+      "name": "Sylvain Dedieu",
+      "photoUrl": "http://avatars.sched.co/0/d2/10757849/avatar.jpg.320x320px.jpg?856"
+    },
+    "11170681": {
+      "id": "11170681",
+      "name": "Stéphane Philippart",
+      "photoUrl": "http://avatars.sched.co/6/aa/11170681/avatar.jpg.320x320px.jpg?b49"
+    },
+    "13159461": {
+      "id": "13159461",
+      "name": "Nicolas Fränkel",
+      "photoUrl": "http://avatars.sched.co/6/19/13159461/avatar.jpg.320x320px.jpg?a15"
+    },
+    "13982166": {
+      "id": "13982166",
+      "name": "Antoine Caron",
+      "photoUrl": "http://avatars.sched.co/f/9d/13982166/avatar.jpg.320x320px.jpg?3e0"
+    },
+    "13982190": {
+      "id": "13982190",
+      "name": "Guillaume Lours",
+      "photoUrl": "http://avatars.sched.co/1/75/13982190/avatar.jpg.320x320px.jpg?b81"
+    },
+    "13982199": {
+      "id": "13982199",
+      "name": "Julien Sulpis",
+      "photoUrl": "http://avatars.sched.co/c/3c/13982199/avatar.jpg.320x320px.jpg?508"
+    },
+    "13982211": {
+      "id": "13982211",
+      "name": "Matthieu Vincent",
+      "photoUrl": "http://avatars.sched.co/1/51/13982211/avatar.jpg.320x320px.jpg?9e1"
+    },
+    "13982232": {
+      "id": "13982232",
+      "name": "Sylvain Coudert",
+      "photoUrl": "http://avatars.sched.co/7/47/13982232/avatar.jpg.320x320px.jpg?aa6"
+    },
+    "14269973": {
+      "id": "14269973",
+      "name": "Christophe TARET",
+      "photoUrl": "http://avatars.sched.co/c/ec/14269973/avatar.jpg.320x320px.jpg?d3b"
+    },
+    "14269974": {
+      "id": "14269974",
+      "name": "Benjamin Parisel",
+      "photoUrl": "http://avatars.sched.co/b/63/14269974/avatar.jpg.320x320px.jpg?d8b"
+    },
+    "16863797": {
+      "id": "16863797",
+      "name": "Alves Mickaël",
+      "photoUrl": "http://avatars.sched.co/8/1e/16863797/avatar.jpg.320x320px.jpg?c6c"
+    },
+    "16863806": {
+      "id": "16863806",
+      "name": "Benjamin Einaudi",
+      "photoUrl": "http://avatars.sched.co/b/66/16863806/avatar.jpg.320x320px.jpg?aeb"
+    },
+    "16863833": {
+      "id": "16863833",
+      "name": "Iris Naudin",
+      "photoUrl": "http://avatars.sched.co/8/9d/16863833/avatar.jpg.320x320px.jpg?19e"
+    },
+    "16863845": {
+      "id": "16863845",
+      "name": "Lucas Audart",
+      "photoUrl": "http://avatars.sched.co/8/97/16863845/avatar.jpg.320x320px.jpg?893"
+    },
+    "17022951": {
+      "id": "17022951",
+      "name": "Marine du Mesnil",
+      "photoUrl": "http://avatars.sched.co/1/90/17022951/avatar.jpg.320x320px.jpg?3b4"
+    },
+    "17427222": {
+      "id": "17427222",
+      "name": "Julien Demazière",
+      "photoUrl": "http://avatars.sched.co/0/5e/17427222/avatar.jpg.320x320px.jpg?5c2"
+    },
+    "17455502": {
+      "id": "17455502",
+      "name": "Thierry Chantier",
+      "photoUrl": "http://avatars.sched.co/f/5c/17455502/avatar.jpg.320x320px.jpg?d32"
+    },
+    "19779278": {
+      "id": "19779278",
+      "name": "Loïc Gudet",
+      "photoUrl": "http://avatars.sched.co/4/c6/19779278/avatar.jpg.320x320px.jpg?66b"
+    },
+    "19779312": {
+      "id": "19779312",
+      "name": "jean verrons",
+      "photoUrl": "http://avatars.sched.co/9/ca/19779312/avatar.jpg.320x320px.jpg?9b7"
+    },
+    "19779314": {
+      "id": "19779314",
+      "name": "Ben",
+      "photoUrl": "http://avatars.sched.co/1/b5/19779314/avatar.jpg.320x320px.jpg?d27"
+    },
+    "19779315": {
+      "id": "19779315",
+      "name": "Estelle Thou",
+      "photoUrl": "http://avatars.sched.co/9/b6/19779315/avatar.jpg.320x320px.jpg?e05"
+    },
+    "19779318": {
+      "id": "19779318",
+      "name": "Gaetan Belliere",
+      "photoUrl": "http://avatars.sched.co/2/eb/19779318/avatar.jpg.320x320px.jpg?01e"
+    },
+    "19779320": {
+      "id": "19779320",
+      "name": "Hubert SABLONNIERE",
+      "photoUrl": "http://avatars.sched.co/1/07/19779320/avatar.jpg.320x320px.jpg?4e5"
+    },
+    "19779323": {
+      "id": "19779323",
+      "name": "Thomas Jouve",
+      "photoUrl": "http://avatars.sched.co/c/99/19779323/avatar.jpg.320x320px.jpg?17f"
+    },
+    "19779326": {
+      "id": "19779326",
+      "name": "Jérôme Tama",
+      "photoUrl": "http://avatars.sched.co/1/73/19779326/avatar.jpg.320x320px.jpg?c21"
+    },
+    "19779329": {
+      "id": "19779329",
+      "name": "Sandrine Banas",
+      "photoUrl": "http://avatars.sched.co/b/c0/19779329/avatar.jpg.320x320px.jpg?a40"
+    },
+    "19779332": {
+      "id": "19779332",
+      "name": "Natalie Godec",
+      "photoUrl": "http://avatars.sched.co/6/f6/19779332/avatar.jpg.320x320px.jpg?dc7"
+    },
+    "19779335": {
+      "id": "19779335",
+      "name": "Alexandre CANTIN",
+      "photoUrl": "http://avatars.sched.co/0/00/19779335/avatar.jpg.320x320px.jpg?874"
+    },
+    "19779338": {
+      "id": "19779338",
+      "name": "Daniel Garnier-Moiroux",
+      "photoUrl": "http://avatars.sched.co/1/37/19779338/avatar.jpg.320x320px.jpg?425"
+    },
+    "19779339": {
+      "id": "19779339",
+      "name": "Charles",
+      "photoUrl": ""
+    },
+    "19779341": {
+      "id": "19779341",
+      "name": "Nicolas FRIZZARIN",
+      "photoUrl": "http://avatars.sched.co/7/af/19779341/avatar.jpg.320x320px.jpg?e7d"
+    },
+    "19779344": {
+      "id": "19779344",
+      "name": "Johanna Millet",
+      "photoUrl": "http://avatars.sched.co/e/f8/19779344/avatar.jpg.320x320px.jpg?cb3"
+    },
+    "19779347": {
+      "id": "19779347",
+      "name": "Yann Schepens",
+      "photoUrl": "http://avatars.sched.co/5/29/19779347/avatar.jpg.320x320px.jpg?251"
+    },
+    "19779348": {
+      "id": "19779348",
+      "name": "Julie Francois-Franco",
+      "photoUrl": "http://avatars.sched.co/5/8a/19779348/avatar.jpg.320x320px.jpg?bfb"
+    },
+    "19779350": {
+      "id": "19779350",
+      "name": "Johanna Vauchel",
+      "photoUrl": "http://avatars.sched.co/6/d1/19779350/avatar.jpg.320x320px.jpg?731"
+    },
+    "19779353": {
+      "id": "19779353",
+      "name": "Mathieu Passenaud",
+      "photoUrl": "http://avatars.sched.co/4/3e/19779353/avatar.jpg.320x320px.jpg?e03"
+    },
+    "19779354": {
+      "id": "19779354",
+      "name": "Christophe Breheret-Girardin",
+      "photoUrl": "http://avatars.sched.co/d/62/19779354/avatar.jpg.320x320px.jpg?a5c"
+    },
+    "19779356": {
+      "id": "19779356",
+      "name": "Vincent Bostoen",
+      "photoUrl": "http://avatars.sched.co/0/64/19779356/avatar.jpg.320x320px.jpg?3d3"
+    },
+    "19779357": {
+      "id": "19779357",
+      "name": "Lise Quesnel",
+      "photoUrl": "http://avatars.sched.co/a/64/19779357/avatar.jpg.320x320px.jpg?326"
+    },
+    "19779365": {
+      "id": "19779365",
+      "name": "Florent BENOIT",
+      "photoUrl": "http://avatars.sched.co/4/7a/19779365/avatar.jpg.320x320px.jpg?d45"
+    },
+    "19779368": {
+      "id": "19779368",
+      "name": "Thomas Bouffard",
+      "photoUrl": "http://avatars.sched.co/1/69/19779368/avatar.jpg.320x320px.jpg?2ea"
+    },
+    "19779371": {
+      "id": "19779371",
+      "name": "Matthieu Werner",
+      "photoUrl": "http://avatars.sched.co/5/33/19779371/avatar.jpg.320x320px.jpg?9b7"
+    },
+    "19779372": {
+      "id": "19779372",
+      "name": "François-Xavier Lair",
+      "photoUrl": "http://avatars.sched.co/7/57/19779372/avatar.jpg.320x320px.jpg?3b6"
+    },
+    "19779374": {
+      "id": "19779374",
+      "name": "Léo Anesi",
+      "photoUrl": "http://avatars.sched.co/1/b8/19779374/avatar.jpg.320x320px.jpg?de5"
+    },
+    "19779377": {
+      "id": "19779377",
+      "name": "Morgane RICLET",
+      "photoUrl": "http://avatars.sched.co/0/7c/19779377/avatar.jpg.320x320px.jpg?a94"
+    },
+    "19779380": {
+      "id": "19779380",
+      "name": "Suzanne Favereau",
+      "photoUrl": "http://avatars.sched.co/6/2d/19779380/avatar.jpg.320x320px.jpg?c76"
+    },
+    "19779383": {
+      "id": "19779383",
+      "name": "Vincent LINAS",
+      "photoUrl": "http://avatars.sched.co/0/37/19779383/avatar.jpg.320x320px.jpg?989"
+    },
+    "19779386": {
+      "id": "19779386",
+      "name": "Benjamin MARRON",
+      "photoUrl": "http://avatars.sched.co/d/88/19779386/avatar.jpg.320x320px.jpg?a02"
+    },
+    "19779389": {
+      "id": "19779389",
+      "name": "Katia HIMEUR",
+      "photoUrl": "http://avatars.sched.co/3/0b/19779389/avatar.jpg.320x320px.jpg?943"
+    },
+    "19779392": {
+      "id": "19779392",
+      "name": "Christopher",
+      "photoUrl": "http://avatars.sched.co/4/e8/19779392/avatar.jpg.320x320px.jpg?8c1"
+    },
+    "19779393": {
+      "id": "19779393",
+      "name": "Loïc Carbonne",
+      "photoUrl": "http://avatars.sched.co/4/f9/19779393/avatar.jpg.320x320px.jpg?206"
+    },
+    "19779395": {
+      "id": "19779395",
+      "name": "Bertrand Péchou",
+      "photoUrl": "http://avatars.sched.co/2/ca/19779395/avatar.jpg.320x320px.jpg?f1b"
+    },
+    "19779396": {
+      "id": "19779396",
+      "name": "Etienne IDOUX",
+      "photoUrl": "http://avatars.sched.co/7/a0/19779396/avatar.jpg.320x320px.jpg?a90"
+    },
+    "19805396": {
+      "id": "19805396",
+      "name": "Benoit LOUP",
+      "photoUrl": "http://avatars.sched.co/1/0b/19805396/avatar.jpg.320x320px.jpg?01a"
+    },
+    "19813587": {
+      "id": "19813587",
+      "name": "Olivier Mertens",
+      "photoUrl": "http://avatars.sched.co/e/b9/19813587/avatar.jpg.320x320px.jpg?168"
+    },
+    "19931703": {
+      "id": "19931703",
+      "name": "Lea Naccache",
+      "photoUrl": "http://avatars.sched.co/a/fa/19931703/avatar.jpg.320x320px.jpg?cca"
+    },
+    "19955260": {
+      "id": "19955260",
+      "name": "Jean Arnaud",
+      "photoUrl": "http://avatars.sched.co/4/d7/19955260/avatar.jpg.320x320px.jpg?513"
+    },
+    "19955287": {
+      "id": "19955287",
+      "name": "Yann Bouvet",
+      "photoUrl": ""
+    },
+    "19985226": {
+      "id": "19985226",
+      "name": "Sylvain METAYER",
+      "photoUrl": "http://avatars.sched.co/7/11/19985226/avatar.jpg.320x320px.jpg?939"
+    }
+  }
+}
